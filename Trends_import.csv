@@ -1,0 +1,8 @@
+Equipment,Item Name,Tag Name,Cluster Name,Type,Expression,Trigger,Sample Period,Eng Units,Format,Deadband,Comment,Zero Scale,Full Scale,File Name,No. Files,Period,Time,Storage Method,Area,Privilege,Historize,Project,SPCFLAG,LSL,USL,SUBGRPSIZE,XDOUBLEBAR,RANGE,SDEVIATION,TAGGENLINK,EDITCODE,LINKED
+Substation1.Transformer1,OIL_TEMP_TRN,Transformer1_OIL_TEMP_TRN,Cluster1,TRN_PERIODIC,Transformer1_OIL_TEMP,,1,degC,,,,0,150,,,,,,,,,11kV 132kV substation monitoring,,,,,,,,,,
+Substation1.Transformer2,OIL_TEMP_TRN,Transformer2_OIL_TEMP_TRN,Cluster1,TRN_PERIODIC,Transformer2_OIL_TEMP,,1,degC,,,,0,150,,,,,,,,,11kV 132kV substation monitoring,,,,,,,,,,
+Substation1.Feeder1,CURRENT_TRN,Feeder1_CURRENT_TRN,Cluster1,TRN_PERIODIC,Feeder1_CURRENT,,1,A,,,,0,400,,,,,,,,,11kV 132kV substation monitoring,,,,,,,,,,
+Substation1.Feeder2,CURRENT_TRN,Feeder2_CURRENT_TRN,Cluster1,TRN_PERIODIC,Feeder2_CURRENT,,1,A,,,,0,400,,,,,,,,,11kV 132kV substation monitoring,,,,,,,,,,
+Substation1.Feeder3,CURRENT_TRN,Feeder3_CURRENT_TRN,Cluster1,TRN_PERIODIC,Feeder3_CURRENT,,1,A,,,,0,400,,,,,,,,,11kV 132kV substation monitoring,,,,,,,,,,
+Substation1,VOLTAGE_11KV_TRN,Sub1_VOLTAGE_11KV_TRN,Cluster1,TRN_PERIODIC,Sub1_VOLTAGE_11KV,,1,kV,,,,0,15,,,,,,,,,11kV 132kV substation monitoring,,,,,,,,,,
+Substation1,VOLTAGE_132KV_TRN,Sub1_VOLTAGE_132KV_TRN,Cluster1,TRN_PERIODIC,Sub1_VOLTAGE_132KV,,1,kV,,,,0,160,,,,,,,,,11kV 132kV substation monitoring,,,,,,,,,,

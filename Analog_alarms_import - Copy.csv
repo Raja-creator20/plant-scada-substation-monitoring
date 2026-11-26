@@ -1,0 +1,10 @@
+Equipment,Item Name,Alarm Tag,Alarm Name,Cluster Name,Category,Setpoint,Deviation,Deviation Delay,Rate,Deadband,Format,Help,Comment,Variable Tag,High High,High High Delay,High,High Delay,Low,Low Delay,Low Low,Low Low Delay,Custom 1,Custom 2,Custom 3,Custom 4,Custom 5,Custom 6,Custom 7,Custom 8,Paging,Paging Group,Area,Privilege,Historize,Project,SEQUENCE,TAGGENLINK,EDITCODE,LINKED
+Substation1.Transformer1,OIL_TEMP_ALM,Transformer1_OIL_TEMP_ALM,Transformer 1 Oil Temperature,Cluster1,,,,,,,,,,Transformer1_OIL_TEMP,95,,85,,,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1.Transformer1,WINDING_TEMP_ALM,Transformer1_WINDING_TEMP_ALM,Transformer 1 Winding Temperature,Cluster1,,,,,,,,,,Transformer1_WINDING_TEMP,120,,105,,,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1.Transformer2,OIL_TEMP_ALM,Transformer2_OIL_TEMP_ALM,Transformer 2 Oil Temperature,Cluster1,,,,,,,,,,Transformer2_OIL_TEMP,95,,85,,,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1.Transformer2,WINDING_TEMP_ALM,Transformer2_WINDING_TEMP_ALM,Transformer 2 Winding Temperature,Cluster1,,,,,,,,,,Transformer2_WINDING_TEMP,120,,105,,,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1.Feeder1,CURRENT_ALM,Feeder1_CURRENT_ALM,Feeder 1 Current,Cluster1,,,,,,,,,,Feeder1_CURRENT,380,,350,,,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1.Feeder2,CURRENT_ALM,Feeder2_CURRENT_ALM,Feeder 2 Current,Cluster1,,,,,,,,,,Feeder2_CURRENT,380,,350,,,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1.Feeder3,CURRENT_ALM,Feeder3_CURRENT_ALM,Feeder 3 Current,Cluster1,,,,,,,,,,Feeder3_CURRENT,380,,350,,,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1,VOLTAGE_11KV_ALM,Sub1_VOLTAGE_11KV_ALM,11kV Bus Voltage,Cluster1,,,,,,,,,,Sub1_VOLTAGE_11KV,,,11.5,,10.5,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,
+Substation1,VOLTAGE_132KV_ALM,Sub1_VOLTAGE_132KV_ALM,132kV Bus Voltage,Cluster1,,,,,,,,,,Sub1_VOLTAGE_132KV,,,138,,126,,,,,,,,,,,,,,,,,11kV 132kV substation monitoring,,,,

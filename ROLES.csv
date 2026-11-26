@@ -1,0 +1,4 @@
+Role Name,Windows Group,Privileges,View Areas,Allow RPC,Allow Exec,Manage Users,Comment,Entry Command,Exit Command,Priv 1 Areas,Priv 2 Areas,Priv 3 Areas,Priv 4 Areas,Priv 5 Areas,Priv 6 Areas,Priv 7 Areas,Priv 8 Areas,Project
+"Administrators","BUILTIN\Administrators","1..8","","FALSE","FALSE","FALSE","Built-in Windows Administrators group","","","","","","","","","","","11kV 132kV substation monitoring"
+"Engineer","BUILTIN\Administrators","1..8","","FALSE","FALSE","FALSE","Built-in Windows Administrators group","","","","","","","","","","","11kV 132kV substation monitoring"
+"Operator","BUILTIN\Administrators","","","FALSE","FALSE","FALSE","Built-in Windows Administrators group","","","","","","","","","","","11kV 132kV substation monitoring"
